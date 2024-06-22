@@ -16,9 +16,9 @@
 
 ✽ Insights of this Project:-
 
-![Super Store Sales Dashboard](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/c0b1f82d-9bd6-4ac6-a376-4285385eb07a)
+"Super Store Sales Dashboard"
 
- "Super Store Sales Dashboard"
+![Super Store Sales Dashboard](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/c0b1f82d-9bd6-4ac6-a376-4285385eb07a)
 
 • Top Category: Office Supplies generate the highest sales, indicating strong customer demand in this category.
 
@@ -34,9 +34,9 @@
 
 • Popular Sub-Categories: Phones, chairs, and binders are among the best-selling items, indicating specific high-demand products.
 
-![Super Store Sales Dashboard (2)](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/57342201-04f7-4aec-a152-40a278cce520)
+"Super Store Sales Forecast - 15 Days Forecast"
 
- "Super Store Sales Forecast - 15 Days Forecast"
+![Super Store Sales Dashboard (2)](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/57342201-04f7-4aec-a152-40a278cce520)
 
 • Sales Forecast Trends: The 15-day sales forecast shows a fluctuating pattern with several peaks and troughs, indicating variability in daily sales.
 
