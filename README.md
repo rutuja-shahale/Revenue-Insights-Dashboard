@@ -14,8 +14,11 @@
 
 • Power Bi
 
-✽ Insights of this Project:-![Super Store Sales Dashboard](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/c0b1f82d-9bd6-4ac6-a376-4285385eb07a)
+✽ Insights of this Project:-
 
+![Super Store Sales Dashboard](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/c0b1f82d-9bd6-4ac6-a376-4285385eb07a)
+
+ "Super Store Sales Dashboard"
 
 • Top Category: Office Supplies generate the highest sales, indicating strong customer demand in this category.
 
@@ -30,3 +33,19 @@
 • Shipping Mode: Most orders are shipped via Standard Class, reflecting a balance between cost and delivery speed.
 
 • Popular Sub-Categories: Phones, chairs, and binders are among the best-selling items, indicating specific high-demand products.
+
+![Super Store Sales Dashboard (2)](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/57342201-04f7-4aec-a152-40a278cce520)
+
+ "Super Store Sales Forecast - 15 Days Forecast"
+
+• Sales Forecast Trends: The 15-day sales forecast shows a fluctuating pattern with several peaks and troughs, indicating variability in daily sales.
+
+• Recent Forecast: In the short-term forecast, sales are expected to rise gradually with some daily fluctuations, as shown by the upward trend and shaded confidence interval.
+
+• Top Performing State: California is the highest performing state in terms of sales, significantly outpacing other states.
+
+• High Sales States: New York and Texas also show strong sales figures, making them important markets after California.
+
+• Moderate Sales States: Washington and Pennsylvania contribute moderately to overall sales, highlighting their potential for growth.
+
+• Low Sales States: States like North Carolina, Michigan, and Florida have lower sales compared to others, suggesting an opportunity to boost performance in these regions.
