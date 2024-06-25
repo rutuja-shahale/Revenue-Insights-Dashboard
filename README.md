@@ -36,7 +36,7 @@
 
 "Super Store Sales Forecast - 15 Days Forecast"
 
-![Super Store Sales Dashboard (2)](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/57342201-04f7-4aec-a152-40a278cce520)
+![Screenshot (34)](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/e441394e-401c-403b-a199-ca94b0e32eed)
 
 • Sales Forecast Trends: The 15-day sales forecast shows a fluctuating pattern with several peaks and troughs, indicating variability in daily sales.
 
