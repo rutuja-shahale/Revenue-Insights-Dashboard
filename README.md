@@ -20,19 +20,19 @@
 
 ![Super Store Sales Dashboard](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/c0b1f82d-9bd6-4ac6-a376-4285385eb07a)
 
-• Top Category: Office Supplies generate the highest sales, indicating strong customer demand in this category.
+• Top Category: Office Supplies generate the highest sales, with 0.64M in sales, indicating strong customer demand in this category.
 
-• Payment Preference: Online payments are the most popular, suggesting customers prefer digital transactions.
+• Payment Preference: Cash on Delivery (COD) is the most popular payment mode, accounting for 43% of transactions, suggesting customers prefer this method.
 
-• Regional Sales: The East region leads in sales, highlighting it as a key market for the store.
+• Regional Sales: The West region leads in sales, contributing 33%, highlighting it as a key market for the store.
 
-• Consumer Segment Dominance: Consumers, as opposed to corporate clients, are the primary buyers, accounting for nearly half of all sales.
+• Consumer Segment Dominance: Consumers are the primary buyers, accounting for 48% of all sales, compared to corporate clients and home office segments.
 
-• Monthly Trends: Sales and profit vary throughout the year, with some months experiencing higher activity and others showing lower performance.
+• Monthly Trends: December records the highest sales of the year, reaching 0.2M.
 
-• Shipping Mode: Most orders are shipped via Standard Class, reflecting a balance between cost and delivery speed.
+• Shipping Mode: Most orders are shipped via Standard Class, with sales of 0.31M, reflecting a balance between cost and delivery speed.
 
-• Popular Sub-Categories: Phones, chairs, and binders are among the best-selling items, indicating specific high-demand products.
+• Popular Sub-Categories: Phones are the top-selling sub-category with sales of 0.2M, indicating high demand for these items.
 
 "Super Store Sales Forecast - 15 Days Forecast"
 
