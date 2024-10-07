@@ -1,8 +1,12 @@
 # Super-Store-Sales-Dashboard
 
-✽ Objective:- 
+✽ Introduction:- 
 
-• Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
+• Office Essentials Plus is an Indian retail store providing office, personal, and furniture needs - all delivered to your doorstep.
+
+✽ Business Problem:- 
+
+• The retail store lacks an efficient data analytics strategy to harness its diverse data sources for generating actionable insights.
 
 • Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
 
