@@ -1,4 +1,4 @@
-# Super-Store-Sales-Dashboard
+# Revenue-Insights-Dashboard
 
 ✽ Introduction:- 
 
@@ -8,11 +8,9 @@
 
 • The retail store lacks an efficient data analytics strategy to harness its diverse data sources for generating actionable insights.
 
-• Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
+✽ Goal:
 
-• Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days.
-
-• Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
+•  The retail store doesn't have a good plan for using its data to make smart decisions. They need to figure out how to organize their sales, customer, and market info to make better choices and improve their business.
 
 ✽ Tool used:-
 
@@ -20,36 +18,22 @@
 
 ✽ Insights of this Project:-
 
-"Super Store Sales Dashboard"
+"Revenue Insights Dashboard"
 
-![Super Store Sales Dashboard](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/c0b1f82d-9bd6-4ac6-a376-4285385eb07a)
+![Revenue Insights Dashboard](https://github.com/user-attachments/assets/e3bb4244-926d-4b51-886f-90031105bb4b)
+![Screenshot (47)](https://github.com/user-attachments/assets/d6f4ee92-79e0-437e-961f-413bd18fe215)
 
-• Top Category: Office Supplies generate the highest sales, with 0.64M in sales, indicating strong customer demand in this category.
 
-• Payment Preference: Cash on Delivery (COD) is the most popular payment mode, accounting for 43% of transactions, suggesting customers prefer this method.
+• The retail store generated approximately $2 million in sales, processing about 22,000 orders, and yielded a profit of $175,000.
 
-• Regional Sales: The West region leads in sales, contributing 33%, highlighting it as a key market for the store.
+• In 2020, peak sales reached approximately 126K, while profits approached 7K.
 
-• Consumer Segment Dominance: Consumers are the primary buyers, accounting for 48% of all sales, compared to corporate clients and home office segments.
+• It takes approximately 10 average days to deliver the products.
 
-• Monthly Trends: December records the highest sales of the year, reaching 0.2M.
+• The Standard Class delivery mode generated the highest amount of sales at $0.91 million.
 
-• Shipping Mode: Most orders are shipped via Standard Class, with sales of 0.31M, reflecting a balance between cost and delivery speed.
+• The Office Supplies Category achieved sales of 0.64 million, followed by technology products at 0.47 million.
 
-• Popular Sub-Categories: Phones are the top-selling sub-category with sales of 0.2M, indicating high demand for these items.
+• To the Year-over-Year (YoY) trend, sales and profit gradually grow each month, peaking in December.
 
-"Super Store Sales Forecast - 15 Days Forecast"
-
-![Screenshot (34)](https://github.com/rutuja-shahale/Super-Store-Sales-Dashboard/assets/173451914/e441394e-401c-403b-a199-ca94b0e32eed)
-
-• Sales Forecast Trends: The 15-day sales forecast shows a fluctuating pattern with several peaks and troughs, indicating variability in daily sales.
-
-• Recent Forecast: In the short-term forecast, sales are expected to rise gradually with some daily fluctuations, as shown by the upward trend and shaded confidence interval.
-
-• Top Performing State: California is the highest performing state in terms of sales, significantly outpacing other states.
-
-• High Sales States: New York and Texas also show strong sales figures, making them important markets after California.
-
-• Moderate Sales States: Washington and Pennsylvania contribute moderately to overall sales, highlighting their potential for growth.
-
-• Low Sales States: States like North Carolina, Michigan, and Florida have lower sales compared to others, suggesting an opportunity to boost performance in these regions.
+• For Year-over-Year (YoY) analysis, it is observed that sales dip in Febraury in both years, while profit peaks.
